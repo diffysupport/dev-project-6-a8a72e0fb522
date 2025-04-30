@@ -49,7 +49,7 @@ advanced:
     custom_js: ''
     custom_css: ''
     mock_content:
-        - { selector: '', type: title }
+        - { type: title, selector: '' }
     login:
         type: none
         click_element: false
